@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Recupera";
+}
+@if (TempData["Sucesso"] != null)
+{
+    <div class="alert alert-success">@TempData["Sucesso"]</div>
+}
+@if (TempData["Erro"] != null)
+{
+    <div class="alert alert-danger">@TempData["Erro"]</div>
+}
+
+
+<div class="jumbotron">
+
+    <h2>Sign in</h2>
+
+    <form action="/paginas/email" method="post">
+        <div class="form-group">
+            <label for="person_email_address"> </label>
+            <input type="text" class="form-control" id="person_email_address" name="person_email_address" placeholder="Your email" />
+        </div>
+
+        <div>
+            <br />
+            <button type="submit" class="btn btn-primary btn-lg">Confirm</button>
+        </div>
+
+    </form>
+</div>
+
+<!--    <p><a href="/paginas/novo" class="btn btn-default">Novo Usuário</a></p>      -->

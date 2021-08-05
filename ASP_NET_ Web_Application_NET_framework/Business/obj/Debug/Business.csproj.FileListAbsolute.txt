@@ -1,0 +1,9 @@
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\bin\Debug\Business.dll
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\bin\Debug\Business.pdb
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\bin\Debug\Database.dll
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\bin\Debug\Database.pdb
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\obj\Debug\Business.dll
+C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Business\obj\Debug\Business.pdb

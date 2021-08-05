@@ -1,0 +1,52 @@
+﻿@Scripts.Render("~/Scripts/jquery-1.10.2.js")
+
+@{
+
+    List<Business.PaginaSignin> pagina = ViewBag.Paginas;
+}
+
+<div class="jumbotron">
+
+
+    <div>
+        <a href="/paginas" class="btn btn-link">Back</a>
+    </div>
+
+    <h2>Create account ALTERA</h2>
+
+    <!--   <form action="/paginas/novo" method="post">   -->
+
+    <form action="/paginas/criar" method="post">
+
+
+        <div class="form-group">
+            <label for="person_name">Name</label>
+            <input type="text" class="form-control" id="person_name" name="person_name" value="@pagina.person_name" placeholder="First name, middle name, last name" />
+        </div>
+
+        <div class="form-group">
+            <label for="person_email_address">Email </label>
+            <input type="text" class="form-control" id="person_email_address" name="person_email_address" value="@pagina.person_email_address" placeholder="Your email" />
+        </div>
+        <div class="form-group">
+            <label for="person_key">User Key</label>
+            <input type="text" class="form-control" id="person_key" name="person_key" value="@pagina.person_key" min="8" maxlength="8" placeholder="User Key (Alphanumeric characters)" />
+        </div>
+
+        <div class="form-group">
+            <label for="person_password">New Password</label>
+            <input type="password" class="form-control" id="person_password" name="person_password" value="@pagina.person_password" maxlength="12" placeholder="Password" />
+        </div>
+
+        <div class="form-group">
+            <label for="person_password_confirm">Confirm Password</label>
+            <input type="password" class="form-control" id="person_password_confirm" name="person_password_confirm" value="@pagina.person_password_confirm" maxlength="12" placeholder="Confirm password" />
+        </div>
+        <div>
+            <br />
+            <button type="submit" class="btn btn-primary btn-lg">Confirm</button>
+        </div>
+
+    </form>
+</div>
+
