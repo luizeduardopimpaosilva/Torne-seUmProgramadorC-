@@ -4,3 +4,8 @@ C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Datab
 C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Database\obj\Debug\Database.dll
 C:\Users\Eduardo Silva\source\repos\ASP_NET_ Web_Application_NET_framework\Database\obj\Debug\Database.pdb
+C:\Users\Eduardo Silva\Documents\Projetos C-Sharp\Teste GitHub\Torne-seUmProgramadorC-\ASP_NET_ Web_Application_NET_framework\Database\bin\Debug\Database.dll
+C:\Users\Eduardo Silva\Documents\Projetos C-Sharp\Teste GitHub\Torne-seUmProgramadorC-\ASP_NET_ Web_Application_NET_framework\Database\bin\Debug\Database.pdb
+C:\Users\Eduardo Silva\Documents\Projetos C-Sharp\Teste GitHub\Torne-seUmProgramadorC-\ASP_NET_ Web_Application_NET_framework\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Silva\Documents\Projetos C-Sharp\Teste GitHub\Torne-seUmProgramadorC-\ASP_NET_ Web_Application_NET_framework\Database\obj\Debug\Database.dll
+C:\Users\Eduardo Silva\Documents\Projetos C-Sharp\Teste GitHub\Torne-seUmProgramadorC-\ASP_NET_ Web_Application_NET_framework\Database\obj\Debug\Database.pdb
